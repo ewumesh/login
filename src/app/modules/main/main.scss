@@ -1,0 +1,9 @@
+.main_card {
+    margin: 5%;
+    padding: 5%;
+    background-color: rgb(224, 221, 221);
+}
+
+.main_card::hover {
+    cursor: pointer !important;
+}
